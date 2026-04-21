@@ -69,6 +69,12 @@ Heartbeat and health summary:
 Display:
 - Improve the look of the UI using the LVGL components provided.
 
+## Resources
+
+Development Board Info - https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/ 
+LVGL Docs - https://docs.lvgl.io/master/index.html 
+Board Support Package Docs - https://components.espressif.com/components/espressif/esp_bsp_generic/versions/3.1.0/readme 
+
 ## Submission Format
 
 Preferred:
