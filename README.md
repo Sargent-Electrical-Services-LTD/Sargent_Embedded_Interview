@@ -54,20 +54,20 @@ Treat managed components as infrastructure. Use their APIs from your app code, b
 
 ## Optional Additions
 
-Heartbeat and health summary:
-- Add a periodic health log (for example every 5 seconds).
-- Include uptime, samples processed, failures, and current state.
+Touch:
+- The board touch path is not supported in the provided generic BSP setup.
+- Add touch support with a simple test button to prove function.
 
 Historical data:
 - Keep the last K sample/status entries.
 - Print a snapshot on warning/error transitions.
+  
+Heartbeat and health summary:
+- Add a periodic health log (for example every 5 seconds).
+- Include uptime, samples processed, failures, and current state.
 
 Display:
 - Improve the look of the UI using the LVGL components provided.
-
-Touch discussion:
-- The board touch path is not supported in the provided generic BSP setup.
-- Briefly describe how you would add touch support if this were a product task.
 
 ## Submission Format
 
