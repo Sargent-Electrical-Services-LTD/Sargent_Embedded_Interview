@@ -1,6 +1,6 @@
 # ESP32-2432S028(R) CYD defaults for esp_bsp_generic
 # Source basis: original board spec + CYD community pin mappings
-# This targets the common ILI9341 + XPT2046 hardware variant.
+# This targets the common ST7789 + XPT2046 hardware variant.
 # Note: esp_bsp_generic currently supports only I2C touch drivers, so touch is disabled here.
 
 # Display enable
