@@ -79,12 +79,6 @@ Board Support Package Docs - https://components.espressif.com/components/espress
 
 ## Submission Format
 
-Preferred:
-1. Fork this repository.
-2. Push your solution branch to your fork.
-3. Open a pull request from your fork branch to this repository and share the PR link.
-
-If you cannot use GitHub:
 1. Create a `.zip` of your modified project
 2. Send via email
 
